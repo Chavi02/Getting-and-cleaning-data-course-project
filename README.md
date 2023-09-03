@@ -20,7 +20,7 @@ To run the R script one must have the following files in their working directory
 
 **dplyr package must be installed in R for this script to run**
 
-Once you have the unzipped folder as the working directory you can run the given R script which will create a tidy data set in a file named *tidyset.txt*
+Once you have the unzipped folder as the working directory you can run the given R script which will create a tidy data set in a file named *Tidy_Data.txt*
 
 #Step-wise Transformation 
 
